@@ -2,8 +2,13 @@
 
 * Grammar
   
-** Personal pronouns
-   
+** Pronouns
+
+   |            | 1s | 2s  | 3sm | 3sf | 1p   | 2p   | 3p     |
+   |------------+----+-----+-----+-----+------+------+--------|
+   | Personal   | mi | thu | e   | i   | sinn | sibh | iad    |
+   | Possessive | mo | do  | a*  | a   | ar   | bhur | an /am |
+
 ** Nouns
 *** Number
     Gàidhlig has three numbers, singular, dual, and plural.
@@ -54,9 +59,9 @@
 
     _Summary_
 
-    | Mood  | Voice  | Tense   | Independent | Negative | Dependent | Dependent interrogative |
-    |-------+--------+---------+-------------+----------+-----------+-------------------------|
-    | Basic | Active | Present | tha         | eil      | eil       | bheil                   |
+    | Mood  | Voice  | Tense   | Independent | Negative | Dependent | Dependent negative |
+    |-------+--------+---------+-------------+----------+-----------+--------------------|
+    | Basic | Active | Present | tha         | eil      | bheil     | eil                |
 
     _Paradigm_
 
@@ -96,11 +101,14 @@
 
 ** Verbs
 
-   | English | Gàidhlig    |
-   |---------+-------------|
-   | Buying  | a' ceannach |
-   | Wanting | ag iarraidh |
-   |         |             |
+   | English | Gàidhlig         | Infinitive       | Imperative |
+   |---------+------------------+------------------+------------|
+   | Buying  | a' ceannach      | a cheannach      | ceannaich  |
+   | Asking  | ag iarraidh      | ag iarraidh      | iarr       |
+   | Wanting | ag iarraidh      | ag iarraidh      | iarr       |   
+   | Feeling | a' faireachdainn | a fhaireachdainn | fairich    |
+   | Looking | a' sealltainn    | a shealltainn    | seall      |
+   |         |                  |                  |            |
 
 ** Roimhearan : Prepositions
 
@@ -169,3 +177,40 @@
     | Eight   | ochd     |        |
     | Nine    | naoi     |        |
     | Ten     | deich    |        |
+** Sìde : Weather
+
+   + Cò ris a tha an t-sìde coltach? ← What's the weather like?
+
+      | Gàidhlig    | Plural | Gen.   | English | Gender |
+      |-------------+--------+--------+---------+--------|
+      | tàirneanach | -aich  |        | thunder | m      |
+      | fearthainn  |        | -e     | rain    | f      |
+      | grian       | -an    | frèine | sun     | f      |
+      | sneachd     | -an    | -a     | snow    | m      |
+      | ceò         |        | -tha   | fog     | m      |
+      | sioc        |        |        | frost   | m      |
+      |             |        |        |         |        |
+
+
+      | Gàidhlig   | Comparative | English  |
+      |------------+-------------+----------|
+      | grianach   | -aiche      | sunny    |
+      | fliuch     | fliche      | wet      |
+      | gaothach   | -aiche      | windy    |
+      | blàth      | -àithe      | warm     |
+      | teth       | teotha      | hot      |
+      | fuar       | fhuaire     | cold     |
+      | ceòthar    | -aire       | misty    |
+      | reòthanach | -aiche      | frosty   |
+      | grabhail   | -e          | horrible |
+      | garbh      | gairbhe     | wild     |
+      | doimheal   | -mheile     | stormy   |
+      |            |             |          |
+
+** Time
+
+   | Gàidhlig  | English   |
+   |-----------+-----------|
+   | a-nis     | Now       |
+   | an-dràsta | Right now |
+   |           |           |
