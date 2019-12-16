@@ -1,0 +1,171 @@
+#+TITLE: Scottish Gaelic
+
+* Grammar
+  
+** Personal pronouns
+   
+** Nouns
+*** Number
+    Gàidhlig has three numbers, singular, dual, and plural.
+
+    The dual is identical in form to the singular for masculine nouns, and identical to the locative case for feminine nouns.
+
+    _Example_
+    dà bhalach - Two boys
+    dà craoibh - Two trees 
+
+** Verbs
+*** The infinitive & verbal noun
+
+        The infinitive can be formed by aspirating the verbal noun, and prefixing the particle a' (or a dh' if the verb starts with a vowel or f).
+
+    _Examples_
+    pòsadh → a phòsadh
+    ag òl → a dh'òl
+
+    
+    
+*** Mood
+**** Conditional
+**** Imperative
+
+*** Tense
+**** Present tense
+
+     There is no specific present tense in Gàidhlig, and instead it relies on the use of a copula, such as /is/, or the verb /bi/ and the verbal noun.
+     This is similar to English, and the present tense can be imitated by casting a sentence in the progressive aspect.
+
+     _Examples_
+     /Tha mi a' dol ann/ - I'm going there, lit. I go there.
+     /Tha mi a' bruidhinn/ - I speak, lit. I am at speaking.
+
+     It is also possible to use the future tense if the action is habitual.
+
+     _Examples_
+     /Ithidh mi a' bhiadh a h-uile latha/ - I eat food everyday, lit. I *will* eat food every day.
+
+**** Future tense
+
+    
+
+
+*** Bi
+    The verb "to be". Often considered the "substansive be" compared to /Is/ which is used as  a copula.
+
+    _Summary_
+
+    | Mood  | Voice  | Tense   | Independent | Negative | Dependent | Dependent interrogative |
+    |-------+--------+---------+-------------+----------+-----------+-------------------------|
+    | Basic | Active | Present | tha         | eil      | eil       | bheil                   |
+
+    _Paradigm_
+
+    | Present affirmative |              | Present negative |                 |
+    |---------------------+--------------+------------------+-----------------|
+    | tha mi              | I am         | Chan eil mi      | I am not        |
+    | tha thu             | You are      | Chan eil thu     | You are not     |
+    | tha e/i             | He / She is  | Chan eil e/i     | He / She is not |
+    | tha sinn            | We are       | Chan eil sinn    | We are not      |
+    | tha sibh            | You are      | Chan eil sibh    | You are not     |
+    | tha iad             | They are     | Chan eil iad     | They are not    |
+    | thatar              | There is     | Chan eilear      | There is not    |
+
+    
+    The present dependent is used with the particles "an" or "a" for an affirmative question, or "nach" for a negative question.
+    The bh is dropped, however, in the negative.
+
+    | Present dependent |              |                |               |
+    |-------------------+--------------+----------------+---------------|
+    | a bheil mi        | Am I?        | nach eil mi    | Am I not?     |
+    | a bheil thu       | Are you?     | nach eil thu   | Are you not?  |
+    | a bheil e/i       | Is he / she? | nach eil e/i?  | Is he not?    |
+    | a bheil sinn?     | Are we?      | nach eil sinn? | Are we not?   |
+    | a bheil sibh?     | Are you?     | nach eil sibh? | Are you not?  |
+    | a bheil iad?      | Are they?    | nach eil iad?  | Are they not? |
+    | a beilear?        | Is there?    | nach eilear    | Is there not? |
+
+    The habitual present tense (e.g. I swim every day) is represented in the future tense in Gàidhlig.
+
+
+* Vocabulary
+** Expressions
+   | Gàidhlig                | English      | Notes |
+   |-------------------------+--------------+-------|
+   | Ciamar a tha thu (sibh) | How are you? |       |
+   |                         |              |       |
+
+** Verbs
+
+   | English | Gàidhlig    |
+   |---------+-------------|
+   | Buying  | a' ceannach |
+   | Wanting | ag iarraidh |
+   |         |             |
+
+** Roimhearan : Prepositions
+
+   Note that Gàidhlig makes extensive use of /prepositional pronouns/ which are listed in last seven columns of the table.
+
+   | English  | Gàidhlig | Gov | 1s   | 2s   | 3sm  | 3sf   | 1p     | 2p     | 3p   |
+   |----------+----------+-----+------+------+------+-------+--------+--------+------|
+   | On, upon | air      | dat | orm  | ort  | air  | oirre | oirnn  | oirbh  | orra |
+   | At       | aig      | dat | agam | agad | alge | aice  | againn | agaibh | aca  |
+   | From     | à        |     | asam | asad | às   | aiste | asainn | asaibh | asta |
+
+** Aodach : Clothes
+
+   | English    | Gàidhlig     | Gender |
+   |------------+--------------+--------|
+   | Shirt      | leìne        |        |
+   | T-Shirt    | leìne-t      |        |
+   | Trousers   | briogais     | f      |
+   | Underwear  | fo-aodach    | m      |
+   | Skirt      | sgiort       |        |
+   | Kilt       | fèileadh     | m      |
+   | Shoe       | bròg         | f      |
+   | Shoes      | brògan       | f      |
+   | Coat       | còta         |        |
+   | Boots      | bòtannan     |        |
+   | Hat        | bonaid       |        |
+   | Underpants | drathais     |        |
+   | Sweater    | geansaidh    |        |
+   | Glasses    | speuclairean |        |
+   | Dress      | dreasa       |        |
+   | Watch      | uaireadair   |        |
+   | Jacket     | seacaid      |        |
+   | Socks      | stocainnean  |        |
+
+*** biadh : food
+
+    | English  | Gàidhlig | Gender |
+    |----------+----------+--------|
+    | Butter   | ìm       |        |
+    | Cake     | cèic     |        |
+    | Ham      | hama     |        |
+    | Bread    | aran     |        |
+    | Fish     | iasg     |        |
+    | Potato   | buntàta  |        |
+    | Herring  | sgadan   |        |
+    | Cheese   | càise    |        |
+    | Water    | uisge    |        |
+    | Porridge | brochan  |        |
+    | Haggis   | taigeis  |        |
+    | Rice     | rìs      |        |
+    | Pepper   | piobar   |        |
+    | Soup     | brot     |        |
+    | Salt     | salann   |        |
+
+*** àireamhan : numbers
+
+    | English | Gàidhlig | Gender |
+    |---------+----------+--------|
+    | One     | aon*     |        |
+    | Two     | dà*      |        |
+    | Three   | trì      |        |
+    | Four    | Ceithir  |        |
+    | Five    | Còig     |        |
+    | Six     | sia      |        |
+    | Seven   | seachd   |        |
+    | Eight   | ochd     |        |
+    | Nine    | naoi     |        |
+    | Ten     | deich    |        |
