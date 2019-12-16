@@ -94,10 +94,11 @@
 
 * Vocabulary
 ** Expressions
-   | Gàidhlig                | English      | Notes |
-   |-------------------------+--------------+-------|
-   | Ciamar a tha thu (sibh) | How are you? |       |
-   |                         |              |       |
+   | Gàidhlig                        | English                  | Notes |
+   |---------------------------------+--------------------------+-------|
+   | Ciamar a tha thu (sibh)         | How are you?             |       |
+   | Cò ris a tha an t-sìde coltach? | What's the weather like? |       |
+   |                                 |                          |       |
 
 ** Verbs
 
@@ -143,43 +144,41 @@
    | Jacket     | seacaid      |        |
    | Socks      | stocainnean  |        |
 
-*** biadh : food
+** biadh : food
 
-    | English  | Gàidhlig | Gender |
-    |----------+----------+--------|
-    | Butter   | ìm       |        |
-    | Cake     | cèic     |        |
-    | Ham      | hama     |        |
-    | Bread    | aran     |        |
-    | Fish     | iasg     |        |
-    | Potato   | buntàta  |        |
-    | Herring  | sgadan   |        |
-    | Cheese   | càise    |        |
-    | Water    | uisge    |        |
-    | Porridge | brochan  |        |
-    | Haggis   | taigeis  |        |
-    | Rice     | rìs      |        |
-    | Pepper   | piobar   |        |
-    | Soup     | brot     |        |
-    | Salt     | salann   |        |
+   | English  | Gàidhlig | Gender |
+   |----------+----------+--------|
+   | Butter   | ìm       |        |
+   | Cake     | cèic     |        |
+   | Ham      | hama     |        |
+   | Bread    | aran     |        |
+   | Fish     | iasg     |        |
+   | Potato   | buntàta  |        |
+   | Herring  | sgadan   |        |
+   | Cheese   | càise    |        |
+   | Water    | uisge    |        |
+   | Porridge | brochan  |        |
+   | Haggis   | taigeis  |        |
+   | Rice     | rìs      |        |
+   | Pepper   | piobar   |        |
+   | Soup     | brot     |        |
+   | Salt     | salann   |        |
 
-*** àireamhan : numbers
+** àireamhan : numbers
 
-    | English | Gàidhlig | Gender |
-    |---------+----------+--------|
-    | One     | aon*     |        |
-    | Two     | dà*      |        |
-    | Three   | trì      |        |
-    | Four    | Ceithir  |        |
-    | Five    | Còig     |        |
-    | Six     | sia      |        |
-    | Seven   | seachd   |        |
-    | Eight   | ochd     |        |
-    | Nine    | naoi     |        |
-    | Ten     | deich    |        |
+   | English | Gàidhlig | Gender |
+   |---------+----------+--------|
+   | One     | aon*     |        |
+   | Two     | dà*      |        |
+   | Three   | trì      |        |
+   | Four    | Ceithir  |        |
+   | Five    | Còig     |        |
+   | Six     | sia      |        |
+   | Seven   | seachd   |        |
+   | Eight   | ochd     |        |
+   | Nine    | naoi     |        |
+   | Ten     | deich    |        |
 ** Sìde : Weather
-
-   + Cò ris a tha an t-sìde coltach? ← What's the weather like?
 
       | Gàidhlig    | Plural | Gen.   | English | Gender |
       |-------------+--------+--------+---------+--------|
@@ -205,12 +204,29 @@
       | grabhail   | -e          | horrible |
       | garbh      | gairbhe     | wild     |
       | doimheal   | -mheile     | stormy   |
-      |            |             |          |
+      | coltach    | -aiche      | like     |
 
 ** Time
 
-   | Gàidhlig  | English   |
-   |-----------+-----------|
-   | a-nis     | Now       |
-   | an-dràsta | Right now |
-   |           |           |
+   | Gàidhlig   | English   |
+   |------------+-----------|
+   | a-nis      | now       |
+   | an-dràsta  | right now |
+   | an-diugh   | today     |
+   | a-màireach | tomorrow  |
+
+    | Gàidhlig          | Plural    | Gen. | English   | Gender |
+    |-------------------+-----------+------+-----------+--------|
+    | làtha             | làthean   |      | day       | m      |
+    | seachdain         | -e        | -ean | week      | f      |
+    | bliadhna          | -naichean |      | year      | f      |
+    |-------------------+-----------+------+-----------+--------|
+    | Diluain (DiL)     |           |      | Monday    | m      |
+    | Dimàirt (DiM)     |           |      | Tuesday   | m      |
+    | Diciadain (Dic)   |           |      | Wednesday | m      |
+    | Diardaoin (DiA)   |           |      | Thursday  | m      |
+    | Dihaoine (DiH)    |           |      | Friday    | m      |
+    | Disathairne (DiS) |           |      | Saturday  | m      |
+    | Didòmhnaich (DiD) |           |      | Sunday    | m      |
+    |-------------------+-----------+------+-----------+--------|
+    |                   |           |      |           |        |
